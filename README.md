@@ -1,4 +1,4 @@
-# Whale Street Sales Bot
+# Robinhood Sales Bot
 
 Posts every sale of [Whales of WhaleStreet](https://opensea.io/collection/whalestreet)
 (Robinhood Chain, `0x01f33271d74a9dcc91798c7232d3d788da93a1f6`) to X:
