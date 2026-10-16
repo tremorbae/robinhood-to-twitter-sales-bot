@@ -1,0 +1,4 @@
+{emoji} {name} #{token_id} Bought
+💰 {price} {symbol}{usd}
+🛒 {marketplace}
+👤 {seller} → {buyer}
